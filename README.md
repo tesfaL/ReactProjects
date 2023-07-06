@@ -1,3 +1,3 @@
 # ReactProjects
-# solved exercises
+solved exercises
 # https://fullstackopen.com/en/part1 
